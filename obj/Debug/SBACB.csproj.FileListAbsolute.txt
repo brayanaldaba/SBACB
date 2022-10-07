@@ -1,0 +1,16 @@
+D:\PROYECTO SOFTWARE VENTAS BRAYAN\progr 1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\PROYECTO SOFTWARE VENTAS BRAYAN\progr 1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\PROYECTO SOFTWARE VENTAS BRAYAN\progr 1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\PROYECTO SOFTWARE VENTAS BRAYAN\progr 1\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+D:\PROYECTO SOFTWARE VENTAS BRAYAN\progr 1\WindowsFormsApp1\obj\Debug\SBACB.csproj.AssemblyReference.cache
+D:\PROYECTO SOFTWARE VENTAS BRAYAN\progr 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.inicio.resources
+D:\PROYECTO SOFTWARE VENTAS BRAYAN\progr 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\PROYECTO SOFTWARE VENTAS BRAYAN\progr 1\WindowsFormsApp1\obj\Debug\SBACB.csproj.GenerateResource.cache
+D:\PROYECTO SOFTWARE VENTAS BRAYAN\progr 1\WindowsFormsApp1\obj\Debug\SBACB.csproj.CoreCompileInputs.cache
+D:\PROYECTO SOFTWARE VENTAS BRAYAN\progr 1\WindowsFormsApp1\obj\Debug\SBACB.csproj.CopyComplete
+D:\PROYECTO SOFTWARE VENTAS BRAYAN\progr 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\PROYECTO SOFTWARE VENTAS BRAYAN\progr 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\PROYECTO SOFTWARE VENTAS BRAYAN\progr 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.interfaz.resources
+D:\PROYECTO SOFTWARE VENTAS BRAYAN\progr 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.registro.resources
+D:\PROYECTO SOFTWARE VENTAS BRAYAN\progr 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.informacion.resources
+D:\PROYECTO SOFTWARE VENTAS BRAYAN\progr 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.perfiles.resources
